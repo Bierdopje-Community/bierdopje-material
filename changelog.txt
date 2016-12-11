@@ -1,5 +1,11 @@
 Bierdopje Material Changelog
 
+Version 0.3 (11 December 2016)
+- Fixed a pixel on the searchbar.
+- Userbox (top right) somewhat changed.
+- Breadcrumbs (and forum pagination fixes).
+- Several font fixes.
+
 Version 0.2 (11 December 2016)
 - Fixed Roboto font.
 - Cards have rounded corners as per Google Material documentation.
