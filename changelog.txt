@@ -1,5 +1,13 @@
 Bierdopje Material Changelog
 
+Version 0.4 (11 December 2016)
+- Button changes (uppercased, hover colour, size).
+- Fixed pagination which was partially not on point in last version.
+- Userbox ajustments.
+- Small box shadow fix.
+- Smaller font size of titles on front page blocks.
+- Breadcrumbs fix: when no previous items are available the colour is blue instead of white.
+
 Version 0.3 (11 December 2016)
 - Fixed a pixel on the searchbar.
 - Userbox (top right) somewhat changed.
