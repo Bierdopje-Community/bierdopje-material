@@ -1,5 +1,11 @@
 Bierdopje Material Changelog
 
+Version 0.5 (11 December 2016)
+- 'old' icons positioning fix.
+- Replies to a news article fix.
+- Somehow broke the pagination last time, again... ish. Fixed.
+- Alert blocks text alignment fix.
+
 Version 0.4 (11 December 2016)
 - Button changes (uppercased, hover colour, size).
 - Fixed pagination which was partially not on point in last version.
