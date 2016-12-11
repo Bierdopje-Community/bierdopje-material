@@ -6,6 +6,8 @@ Based on: Materialize
 http://materializecss.com/
 
 Special thanks:
+Google (https://material.google.com/)
+Material.io (https://material.io/icons/)
 mladenplavsic (https://github.com/mladenplavsic/css-ripple-effect)
 
 BLUE COLOUR SCHEME:
@@ -49,6 +51,8 @@ color: #ffffff;
 #ff6d00 orange accent-4
 */
 
+@import url("http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300ita‌​lic,400italic,500,500italic,700,700italic,900italic,900");
+
 @font-face {
   font-family: 'Material Icons';
   font-style: normal;
@@ -56,15 +60,6 @@ color: #ffffff;
   src: local('Material Icons'), local('MaterialIcons-Regular'), url(http://fonts.gstatic.com/s/materialicons/v19/2fcrYFNaTjcS6g4U3t-Y5ZjZjT5FdEJ140U2DJYC3mY.woff2) format('woff2');
 }
 
-/* Is this necessary? */
-@font-face {
-  font-family: 'Roboto';
-  src: url('roboto.eot'); /* IE9 Compat Modes */
-  src: url('roboto.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url('roboto.woff') format('woff'), /* Modern Browsers */
-  url('roboto.ttf')  format('truetype'), /* Safari, Android, iOS */
-  url('roboto.svg#svgFontName') format('svg'); /* Legacy iOS */
-}
 
 *, *:before, *:after {
     box-sizing: inherit;
@@ -699,11 +694,13 @@ select {
 
 .block .header .wrap {
     padding: 5px;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
 }
 
 .block .header .wrap h1 {
     font-size: 1rem;
-    font-weight: 300;
+    font-weight: 400;
 }
 
 .block .header .wrap,
@@ -713,6 +710,8 @@ th.bluerow {
 
 .block .body {
 	border: 0;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
 }
 
 .block .body .wrap .fr {
