@@ -1,5 +1,10 @@
 Bierdopje Material Changelog
 
+Version 0.6 (14 December 2016)
+- Userbox ajustments.
+- Added 2 common material icons.
+- Billboard is now a card following the Material rules.
+
 Version 0.5 (11 December 2016)
 - 'old' icons positioning fix.
 - Replies to a news article fix.

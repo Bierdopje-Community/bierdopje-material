@@ -1,7 +1,7 @@
 # Bierdopje Material
 A makeover for Bierdopje.com using Google's Material Design
 
-WORK IN PROGRESS! (v0.5)
+WORK IN PROGRESS! (v0.6)
 
 <a href="https://userstyles.org/styles/136283/bierdopje-material">Install via userstyles.com</a> (Using Stylish)
 
