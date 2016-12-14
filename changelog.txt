@@ -1,5 +1,9 @@
 Bierdopje Material Changelog
 
+Version 0.6.2 (14 December 2016)
+- Minor font changes.
+- Updated screenshots.
+
 Version 0.6.1 (14 December 2016)
 - Changed the way the billboard positions (better, but also to support Bierdopje Move).
 
