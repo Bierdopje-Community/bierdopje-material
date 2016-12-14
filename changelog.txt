@@ -1,5 +1,8 @@
 Bierdopje Material Changelog
 
+Version 0.6.3 (14 December 2016)
+- Minor fix.
+
 Version 0.6.2 (14 December 2016)
 - Minor font changes.
 - Updated screenshots.

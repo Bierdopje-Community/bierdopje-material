@@ -1,7 +1,7 @@
 @-moz-document domain("bierdopje.com"), domain("bierdopje.eu") {
 /*
 Developed by: Tom
-Version 0.6.2
+Version 0.6.3
 
 Based on: Materialize
 http://materializecss.com/
@@ -1002,7 +1002,7 @@ th.forumkop {
 .userbox .leftfloat .wittetekst a:nth-child(1)::before,
 .userbox .leftfloat .wittetekst a:nth-child(2)::before,
 .userbox .leftfloat .wittetekst a:last-child::before,
-.userbox .leftfloat .wittetekst a#AddonPreferences,
+.userbox .leftfloat .wittetekst a#AddonPreferences::before,
 .searchblock a::before,
 .info::before,
 .question::before,
@@ -1162,7 +1162,6 @@ a.imgbutton {
   font-weight: 400;
   src: local('Material Icons'), local('MaterialIcons-Regular'), url(https://fonts.gstatic.com/s/materialicons/v19/2fcrYFNaTjcS6g4U3t-Y5ZjZjT5FdEJ140U2DJYC3mY.woff2) format('woff2');
 }
-
 @font-face {
   	font-family: 'Roboto';
 	font-style: normal;
