@@ -1,5 +1,9 @@
 Bierdopje Material Changelog
 
+Version 0.7 (17 December 2016)
+- Updated a lot of icons.
+- Changed the way icons work (had to rewrite some stuff for that to work).
+
 Version 0.6.3 (14 December 2016)
 - Minor fix.
 
