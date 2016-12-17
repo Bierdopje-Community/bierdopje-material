@@ -1,5 +1,13 @@
 Bierdopje Material Changelog
 
+Version 0.8 (17 December 2016)
+- Updated a bunch of icons.
+- Added feedback on hovering or clicking new icon buttons.
+- Changed the colour of the icons so they fit the rest of the page.
+- Modified the way genres and tags are presented.
+- Fixed pixel shadow on breadcrumbs.
+- Forum, direct messages and newsitem replies fixes.
+
 Version 0.7 (17 December 2016)
 - Updated a lot of icons.
 - Changed the way icons work (had to rewrite some stuff for that to work).
