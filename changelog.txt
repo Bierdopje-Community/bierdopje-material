@@ -1,8 +1,8 @@
 Bierdopje Material Changelog
 
 Version 0.9 (04 January 2017)
-- Fixed menu item font color when clicking it.
-- Fixed transition of the font color on menu items.
+- Fixed menu item font colour when clicking it.
+- Fixed transition of the font colour on menu items.
 - Changed the replybox (shown in forums and news).
 
 Version 0.8 (17 December 2016)
