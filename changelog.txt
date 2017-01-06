@@ -1,5 +1,8 @@
 Bierdopje Material Changelog
 
+Version 0.91 (06 January 2017)
+- Fixed the replybox icons and preview.
+
 Version 0.9 (04 January 2017)
 - Fixed menu item font colour when clicking it.
 - Fixed transition of the font colour on menu items.
