@@ -1,5 +1,14 @@
 Bierdopje Material Changelog
 
+Version 0.92 (07 January 2017)
+- Settings page materialized.
+- Radio buttons on settings page are materialized.
+- Some input buttons were materialized.
+- Checkboxes materialized.
+- Fixed the dark lightbulb hover/click animations.
+- Added subtle animation for checking episodes.
+- Added hover/click colours to the tags on series details.
+
 Version 0.91 (06 January 2017)
 - Fixed the replybox icons and preview.
 
