@@ -1,5 +1,10 @@
 Bierdopje Material Changelog
 
+Version 0.94 (07 January 2017)
+- Textareas materialized.
+- Password fields materialized.
+- Settings birthday fix.
+
 Version 0.93 (07 January 2017)
 - Made the footer sticky to the bottom of the page.
 - Row with tabs on settings page is full width now.
