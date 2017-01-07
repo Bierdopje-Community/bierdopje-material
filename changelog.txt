@@ -1,5 +1,15 @@
 Bierdopje Material Changelog
 
+Version 0.93 (07 January 2017)
+- Made the footer sticky to the bottom of the page.
+- Row with tabs on settings page is full width now.
+- Non-settings tabs are better clickable now.
+- Replybox textfield has an indicator now.
+- Inputboxes materialized.
+- Selects materialized.
+- Removed ripple effect on userbox and changed action colours.
+- Mark all as read on forum page button fix.
+
 Version 0.92 (07 January 2017)
 - Settings page materialized.
 - Radio buttons on settings page are materialized.
