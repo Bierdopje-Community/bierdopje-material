@@ -1,5 +1,9 @@
 Bierdopje Material Changelog
 
+Version 0.95 (21 January 2017)
+- Better support for Bierdopje missende series helper.
+- Font size dropdown overlap fix.
+
 Version 0.94 (07 January 2017)
 - Textareas materialized.
 - Password fields materialized.
