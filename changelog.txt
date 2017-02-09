@@ -1,5 +1,9 @@
 Bierdopje Material Changelog
 
+Version 0.96 (09 February 2017)
+- Changed the unseen/unaquired icon + animation.
+- Other fixes I don't remember :)
+
 Version 0.95 (21 January 2017)
 - Better support for Bierdopje missende series helper.
 - Font size dropdown overlap fix.
