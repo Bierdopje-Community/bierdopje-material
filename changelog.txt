@@ -1,5 +1,8 @@
 Bierdopje Material Changelog
 
+Version 0.96.1 (23 September 2017)
+- Fixed invisible favourite icon in the "series about to start" section.
+
 Version 0.96 (09 February 2017)
 - Changed the unseen/unaquired icon + animation.
 - Other fixes I don't remember :)
