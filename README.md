@@ -2,7 +2,8 @@
 A makeover for Bierdopje.com using Google's Material Design<br/>
 v0.97.1
 
-<a href="https://userstyles.org/styles/136283/bierdopje-material">Install via userstyles.com</a> (Using Stylish)
+<a href="https://userstyles.org/styles/136283/bierdopje-material">Install via userstyles.com</a> (Using Stylish)<br/>
+or<br/>
 <a href="https://userstyles.org/styles/149263/bierdopje-material-alternative-blue">Install alternative blue version via userstyles.com</a> (Using Stylish)
 
 # Screenshots
