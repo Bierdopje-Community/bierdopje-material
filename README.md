@@ -5,7 +5,7 @@ v0.97
 <a href="https://userstyles.org/styles/136283/bierdopje-material">Install via userstyles.com</a> (Using Stylish)
 
 # Screenshots
-<a href="https://github.com/Bierdopje-Community/bierdopje-material/blob/master/screenshots/frontpage.jpeg?raw=true" target="_blank"><img src="https://github.com/Bierdopje-Community/bierdopje-material/blob/master/screenshots/frontpage.jpeg?raw=true" width="300px" /></a>
+<a href="https://github.com/Bierdopje-Community/bierdopje-material/blob/master/screenshots/frontpage.png?raw=true" target="_blank"><img src="https://github.com/Bierdopje-Community/bierdopje-material/blob/master/screenshots/frontpage_thumb.png?raw=true" width="300px" /></a>
 <a href="https://github.com/Bierdopje-Community/bierdopje-material/blob/master/screenshots/forum.png?raw=true" target="_blank"><img src="https://github.com/Bierdopje-Community/bierdopje-material/blob/master/screenshots/forum_thumb.png?raw=true" width="300px" /></a>
 <a href="https://github.com/Bierdopje-Community/bierdopje-material/blob/master/screenshots/series.png?raw=true" target="_blank"><img src="https://github.com/Bierdopje-Community/bierdopje-material/blob/master/screenshots/series_thumb.png?raw=true" width="300px" /></a>
 <a href="https://github.com/Bierdopje-Community/bierdopje-material/blob/master/screenshots/series-overview.png?raw=true" target="_blank"><img src="https://github.com/Bierdopje-Community/bierdopje-material/blob/master/screenshots/series-overview_thumb.png?raw=true" width="300px" /></a>
