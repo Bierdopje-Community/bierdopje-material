@@ -1,5 +1,9 @@
 Bierdopje Material Changelog
 
+Version 0.97.1 (7 October 2017)
+- Fixed h1 colours.
+- Added alternative blue version.
+
 Version 0.97 (7 October 2017)
 - Added style for forum posts.
 - Added style for news replies.
