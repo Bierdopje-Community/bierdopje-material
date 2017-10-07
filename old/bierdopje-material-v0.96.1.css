@@ -1,7 +1,7 @@
 @-moz-document domain("bierdopje.com"), domain("bierdopje.eu") {
 /*
 Developed by: Tom
-Version 0.97
+Version 0.96.1
 
 Special thanks:
 Google (https://material.google.com/)
@@ -1069,24 +1069,6 @@ h3.forumHeader {
 }
 
 /* forum */
-table.forumline tr td {
-    padding: 4px;
-}
-
-table.forumline tr td.catHead {
-    padding: 0 !important;
-}
-
-table.forumline tr:nth-child(3n+3),
-table.forumline tr:nth-child(3n+4) {
-    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 1px 5px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.2);
-}
-
-table.forumline tr[id="replyspacer-end name="],
-table.forumline tr:last-child {
-    box-shadow: 0 0 0 0;
-}
-
 table.forumline tr[id^="replyheader"] td:first-child a {
     position: relative;
     left: 5px;
@@ -1117,14 +1099,6 @@ table.forumline .postname + img {
 	position: relative;
     top: 3px;
     left: 5px;
-}
-
-table.forumline tr[name="replyspacer"] {
-    height: 10px;
-}
-
-table.forumline .spaceRow {
-    background-color: transparent;
 }
 
 /* replybox */
@@ -1557,11 +1531,6 @@ img[id^=seen] {
 
 th.forumkop {
 	background: transparent;
-	padding: 5px;
-}
-
-th.forumkop.thLeft {
-    padding: 5px 10px;
 }
 
 /* tags */

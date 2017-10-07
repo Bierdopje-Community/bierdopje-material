@@ -1,11 +1,14 @@
 # Bierdopje Material
 A makeover for Bierdopje.com using Google's Material Design<br/>
-v0.96.1
+v0.97
 
 <a href="https://userstyles.org/styles/136283/bierdopje-material">Install via userstyles.com</a> (Using Stylish)
 
-# Screenshot
+# Screenshots
 <a href="https://github.com/Bierdopje-Community/bierdopje-material/blob/master/screenshots/frontpage.jpeg?raw=true"><img src="https://github.com/Bierdopje-Community/bierdopje-material/blob/master/screenshots/frontpage.jpeg?raw=true" width="300px" /></a>
+<a href="https://github.com/Bierdopje-Community/bierdopje-material/blob/master/screenshots/forum.png?raw=true"><img src="https://github.com/Bierdopje-Community/bierdopje-material/blob/master/screenshots/forum_thumb.png?raw=true" width="300px" /></a>
+<a href="https://github.com/Bierdopje-Community/bierdopje-material/blob/master/screenshots/series.png?raw=true"><img src="https://github.com/Bierdopje-Community/bierdopje-material/blob/master/screenshots/series_thumb.png?raw=true" width="300px" /></a>
+<a href="https://github.com/Bierdopje-Community/bierdopje-material/blob/master/screenshots/series-overview.png?raw=true"><img src="https://github.com/Bierdopje-Community/bierdopje-material/blob/master/screenshots/series-overview_thumb.png?raw=true" width="300px" /></a>
 
 # Install the Stylish extension
 - <a href="https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe">Stylish for Chrome</a>

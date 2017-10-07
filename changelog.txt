@@ -1,5 +1,9 @@
 Bierdopje Material Changelog
 
+Version 0.97 (7 October 2017)
+- Added style for forum posts.
+- Added style for news replies.
+
 Version 0.96.1 (23 September 2017)
 - Fixed invisible favourite icon in the "series about to start" section.
 
