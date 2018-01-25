@@ -1,5 +1,8 @@
 Bierdopje Material Changelog
 
+Version 0.97.2 (25 January 2018)
+- Fixed New and Star icons stacking up instead of showing next to each other.
+
 Version 0.97.1 (7 October 2017)
 - Fixed h1 colours.
 - Added alternative blue version.
