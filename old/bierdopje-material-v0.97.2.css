@@ -1,7 +1,7 @@
 @-moz-document domain("bierdopje.com"), domain("bierdopje.eu") {
 /*
 Developed by: Tom
-Version 0.97.3
+Version 0.97.2
 
 Special thanks:
 Google (https://material.google.com/)
@@ -332,7 +332,7 @@ textarea:focus {
 }
 
 #logo {
-	background: transparent url(https://i.imgur.com/kNhLsvn.png) no-repeat!important;
+	background: transparent url(http://i47.tinypic.com/14e510x.png) no-repeat!important;
 }
 
 /* current user (top right box) */

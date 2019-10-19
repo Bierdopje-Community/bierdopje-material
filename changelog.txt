@@ -1,5 +1,8 @@
 Bierdopje Material Changelog
 
+Version 0.97.3 (19 October 2019)
+- Fixed logo.
+
 Version 0.97.2 (25 January 2018)
 - Fixed New and Star icons stacking up instead of showing next to each other.
 

@@ -1,7 +1,7 @@
 @-moz-document domain("bierdopje.com"), domain("bierdopje.eu") {
 /*
 Developed by: Tom
-Version 0.97.3
+Version 0.97.2
 
 Special thanks:
 Google (https://material.google.com/)
@@ -9,24 +9,24 @@ Material.io (https://material.io/icons/)
 Materialize (http://materializecss.com/)
 mladenplavsic (https://github.com/mladenplavsic/css-ripple-effect)
 
-BLUE COLOUR SCHEME:
+ALTERNATIVE BLUE COLOUR SCHEME:
 color: #555555;
-#e3f2fd blue lighten-5
-#bbdefb blue lighten-4
-#90caf9 blue lighten-3
-#64b5f6 blue lighten-2
-#42a5f5 blue lighten-1
-#2196f3 blue
+#f4f9ff blue lighten-5
+#d7e9ff blue lighten-4
+#bcd9f6 blue lighten-3
+#9dbfdf blue lighten-2
+#89abcc blue lighten-1
+#7296b7 blue
 
 color: #ffffff;
-#1e88e5 blue darken-1
-#1976d2 blue darken-2
-#1565c0 blue darken-3
-#0d47a1 blue darken-4
-#82b1ff blue accent-1
-#448aff blue accent-2
-#2979ff blue accent-3
-#2962ff blue accent-4
+#678aaa blue darken-1
+#577995 blue darken-2
+#4a6a84 blue darken-3
+#344c60 blue darken-4
+#a7c7e8 blue accent-1
+#799bc1 blue accent-2
+#678ab0 blue accent-3
+#587ba3 blue accent-4
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -93,17 +93,17 @@ a:active, a:hover {
 }
 
 a {
-    color: #42a5f5;
+    color: #89abcc;
     text-decoration: none;
     -webkit-tap-highlight-color: transparent;
 }
 
 a:hover {
-    color: #1976d2;
+    color: #577995;
 }
 
 a:active {
-    color: #1565c0;
+    color: #4a6a84;
 }
 
 #_lightswitch {
@@ -126,7 +126,7 @@ body.main_body {
 }
 
 h1 {
-    color: #1565c0;
+    color: #4a6a84;
 }
 
 h2 {
@@ -144,13 +144,13 @@ input[type=password] {
 
 input[type=text]:hover,
 input[type=password]:hover {
-	border-bottom: 1px solid #1565c0;
+	border-bottom: 1px solid #4a6a84;
 }
 
 input[type=text]:focus,
 input[type=password]:focus {
-	border-bottom: 1px solid #1565c0;
-    box-shadow: 0 1px 0 0 #1565c0;
+	border-bottom: 1px solid #4a6a84;
+    box-shadow: 0 1px 0 0 #4a6a84;
 }
 
 input[type=submit],
@@ -168,20 +168,20 @@ input[type=radio] {
 
 input[type=radio]:hover::before,
 input[type=radio]:hover::after {
-    border: 2px solid #1e88e5 !important;
+    border: 2px solid #678aaa !important;
 }
 
 input[type=radio]:hover::after {
-    background: #1e88e5 !important;
+    background: #678aaa !important;
 }
 
 input[type=radio]:active::before,
 input[type=radio]:active::after {
-    border: 2px solid #1565c0 !important;
+    border: 2px solid #4a6a84 !important;
 }
 
 input[type=radio]:active::after {
-    background: #1565c0 !important;
+    background: #4a6a84 !important;
 }
 
 input[type=radio]:not(:checked)::before {
@@ -199,7 +199,7 @@ input[type=radio]:checked::after {
 }
 
 input[type=radio]:checked::before {
-    border: 2px solid #1565c0;
+    border: 2px solid #4a6a84;
 }
 
 input[type=radio]::before {
@@ -212,7 +212,7 @@ input[type=radio]::before {
     transition: all .28s ease;
     
     background: #FFFFFF;
-    border: 2px solid #1565c0;
+    border: 2px solid #4a6a84;
     border-radius: 50%;
 }
 
@@ -225,8 +225,8 @@ input[type=radio]::after {
     height: 2.5px;
     transition: all .28s ease;
     
-    background: #1565c0;
-    border: 2px solid #1565c0;
+    background: #4a6a84;
+    border: 2px solid #4a6a84;
     border-radius: 50%;
 }
 
@@ -237,20 +237,20 @@ input[type=checkbox] {
 
 input[type=checkbox]:hover::before,
 input[type=checkbox]:not(:checked):hover::after {
-    border: 2px solid #1e88e5 !important;
+    border: 2px solid #678aaa !important;
 }
 
 input[type=checkbox]:checked:hover::before {
-    background: #1e88e5 !important;
+    background: #678aaa !important;
 }
 
 input[type=checkbox]:active::before,
 input[type=checkbox]:not(:checked):active::after{
-    border: 2px solid #1565c0 !important;
+    border: 2px solid #4a6a84 !important;
 }
 
 input[type=checkbox]:checked:active::before {
-    background: #1565c0 !important;
+    background: #4a6a84 !important;
 }
 
 input[type=checkbox]::before {
@@ -270,8 +270,8 @@ input[type=checkbox]::before {
 input[type=checkbox]:checked::before {
     width: 10px;
     height: 10px;
-    border: 2px solid #1565c0;
-    background-color: #1565c0;
+    border: 2px solid #4a6a84;
+    background-color: #4a6a84;
 }
 
 input[type=checkbox]::after {
@@ -313,17 +313,17 @@ textarea {
 }
 
 textarea:hover {
-    border-bottom: 1px solid #1565c0;
+    border-bottom: 1px solid #4a6a84;
 }
 
 textarea:focus {
-    border-bottom: 1px solid #1565c0;
-    box-shadow: 0 1px 0 0 #1565c0;
+    border-bottom: 1px solid #4a6a84;
+    box-shadow: 0 1px 0 0 #4a6a84;
 }
 
 /* start of page */
 #header {
-    background: #2196f3;
+    background: #7296b7;
     height: 115px;
 }
 
@@ -332,12 +332,12 @@ textarea:focus {
 }
 
 #logo {
-	background: transparent url(https://i.imgur.com/kNhLsvn.png) no-repeat!important;
+	background: transparent url(http://i47.tinypic.com/14e510x.png) no-repeat!important;
 }
 
 /* current user (top right box) */
 .userbox {
-    background: #64b5f6;
+    background: #9dbfdf;
     height: 100%;
     box-sizing: border-box;
 }
@@ -491,30 +491,30 @@ select option {
 
 #nav li a:hover,
 #nav li.selected {
-    background-color: #1976d2;
+    background-color: #577995;
     border: 0;
     color: #fff;
 }
 
 #nav li a:active {
-    background-color: #1565c0;
+    background-color: #4a6a84;
     color: #fff;
 }
 
 #nav li.selected a {
-    background-color: #1976d2;
+    background-color: #577995;
     border: 0;
     color: #fff;
 }
 
 #nav li.selected a:hover {
-    background-color: #1565c0;
+    background-color: #4a6a84;
     border: 0;
     color: #fff;
 }
 
 #nav li.selected a:active {
-    background-color: #0d47a1;
+    background-color: #344c60;
     border: 0;
     color: #fff;
 }
@@ -566,7 +566,7 @@ select option {
 }
 
 .searchblock input.searchfield:hover {
-    background-color: #1976d2;
+    background-color: #577995;
     color: #fff;
 }
 
@@ -649,7 +649,7 @@ select option {
 
 .info,
 .question {
-	background: #bbdefb;
+	background: #d7e9ff;
 }
 
 .success {
@@ -776,7 +776,7 @@ select option {
 
 /* series overview banner + navigation */
 .headband {
-	background: #1e88e5;
+	background: #678aaa;
 }
 
 .headband div.headband_filler div h1 {
@@ -791,7 +791,7 @@ select option {
 }
 
 #submenucontainer {
-    background: #1565c0;
+    background: #4a6a84;
     display: inline-block;
     height: auto;
     float: inherit;
@@ -897,7 +897,7 @@ select option {
 
 /* breadcrumbs */
 .catHead table tr:first-child td:first-child table {
-    background: #1565c0;
+    background: #4a6a84;
     width: 100%;
     position: absolute;
     top: 0;
@@ -1036,14 +1036,14 @@ h3.forumHeader {
 
 .pagination li.disabled,
 #pagination li.spacer {
-	background: #bbdefb;
+	background: #d7e9ff;
     color: #555555;
     pointer-events: none;
 }
 
 .pagination ul>.active,
 #pagination li.active {
-	background: #1976d2;
+	background: #577995;
     color: #ffffff;
 }
 
@@ -1054,22 +1054,22 @@ h3.forumHeader {
 
 .pagination ul>li.active>a:hover:not(:focus),
 #pagination li a:hover:not(:focus) {
-	background-color: #2196f3
+	background-color: #7296b7
 }
 
 .pagination ul>li.active>a:active,
 #pagination li a:active {
-	background-color: #0d47a1
+	background-color: #344c60
 }
 
 .pagination ul>li:not(.active)>a:hover:not(:focus),
 #pagination li a:hover:not(:focus) {
-	background-color: #e3f2fd;
+	background-color: #f4f9ff;
 }
 
 .pagination ul>li:not(.active)>a:active,
 #pagination li a:active {
-	background-color: #90caf9;
+	background-color: #bcd9f6;
 }
 
 /* forum */
@@ -1160,7 +1160,7 @@ table.forumline .spaceRow {
 }
 
 .markItUpHeader {
-    background: #1565c0;
+    background: #4a6a84;
     height: 15px;
     padding: 5px;
 }
@@ -1241,12 +1241,12 @@ table.forumline .spaceRow {
 }
 
 .markItUpEditor:hover + .markItUpFooter {
-	background: #1565c0;
+	background: #4a6a84;
 }
 
 .markItUpEditor:focus + .markItUpFooter {
-	background: #1565c0;
-    box-shadow: 0 1px 0 0 #1565c0;
+	background: #4a6a84;
+    box-shadow: 0 1px 0 0 #4a6a84;
 }
 
 /* direct messages and newsitem replies */
@@ -1295,7 +1295,7 @@ table.forumline tr:nth-child(3):not([id^="replyheader"]) a[href*="messages/reply
 
 .block .header .wrap,
 th.bluerow {
-	background: #1565c0;
+	background: #4a6a84;
 }
 
 .block .body {
@@ -1334,7 +1334,7 @@ table.listing tr:not(:first-child):hover {
 /* buttons */
 /* special MarkAllAsRead button */
 .content.go-wide table.forumline + div + div + div span {
-    background: #1976d2 !important;
+    background: #577995 !important;
     position: relative;
     top: 7.5px;
     padding: 7px 10px 5px 10px !important;
@@ -1345,12 +1345,12 @@ table.listing tr:not(:first-child):hover {
 }
 
 .content.go-wide table.forumline + div + div + div span:hover {
-    background-color: #2196f3 !important;
+    background-color: #7296b7 !important;
     box-shadow: 0 3px 3px 0 rgba(0,0,0,0.14),0 1px 7px 0 rgba(0,0,0,0.12),0 3px 1px -1px rgba(0,0,0,0.2);
 }
 
 .content.go-wide table.forumline + div + div + div span:active {
-    background-color: #0d47a1 !important;
+    background-color: #344c60 !important;
 }
 
 input[type=submit],
@@ -1360,7 +1360,7 @@ input[type=button],
     text-decoration: none;
     font-weight: normal;
     color: #ffffff;
-    background: #1976d2;
+    background: #577995;
     text-align: center;
     letter-spacing: .5px;
     transition: all .3s ease-out;
@@ -1394,14 +1394,14 @@ input[type=button],
 input[type=submit]:hover,
 input[type=button]:hover,
 .button:hover {
-    background-color: #2196f3;
+    background-color: #7296b7;
     box-shadow: 0 3px 3px 0 rgba(0,0,0,0.14),0 1px 7px 0 rgba(0,0,0,0.12),0 3px 1px -1px rgba(0,0,0,0.2);
 }
 
 input[type=submit]:active,
 input[type=button]:active,
 .button:active {
-    background-color: #0d47a1;
+    background-color: #344c60;
 }
 
 a.imgbutton {
@@ -1448,7 +1448,7 @@ select[name=modaction] {
 }
 
 table.forumline tr:not(:last-child):nth-child(2) {
-	background: #1565c0;
+	background: #4a6a84;
 }
 
 .row1.rowborder p a img {
@@ -1614,12 +1614,12 @@ th.forumkop.thLeft {
 
 /* settings */
 #tabmenu {
-    background: #e3f2fd;
+    background: #f4f9ff;
     height: 40px;
 }
 
 #tabmenu li a {
-    background: #e3f2fd;
+    background: #f4f9ff;
     border-right: 0;
     font-weight: normal;
     transition: all .3s ease;
@@ -1637,21 +1637,21 @@ th.forumkop.thLeft {
 
 #tabmenu li a:hover,
 #tabmenu li.active a {
-    background: #1e88e5;
+    background: #678aaa;
     color: #FFFFFF;
 }
 
 #tabmenu li a:active {
-    background: #1565c0;
+    background: #4a6a84;
     color: #FFFFFF;
 }
 
 #tabmenu li.active a:hover {
-	background: #1976d2;
+	background: #577995;
 }
 
 #tabmenu li.active a:active {
-	background: #0d47a1;
+	background: #344c60;
 }
 
 #tabmenu li a img {
@@ -1680,7 +1680,7 @@ th.forumkop.thLeft {
 
 /* footer */
 #footer {
-	background: #2196F3;
+	background: #7296b7;
     line-height: 1;
 }
 
@@ -2519,7 +2519,7 @@ a.imgbutton {
 /* plugins that require some extra work */
 /* ^- Bierdopje missende series helper */
 tr[id^="replyside"] td:nth-child(2) .postbody .twbs.container-fluid p.postcontent + table tr:first-child {
-	 background: #1565c0;
+	 background: #4a6a84;
     color: #ffffff;
 }
 
